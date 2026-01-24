@@ -1,0 +1,16 @@
+Aegis.png
+Arrival.png
+Execute.png
+FlameShoot.png
+Fliker.png
+Inspire.png
+Petrify.png
+Purify.png
+Retributtion.png
+Revitalize.png
+Sprint.png
+Vengeance.png
+Headframe.png
+Cd_yellow.png
+IconStar.png
+IconStarMyth.png
