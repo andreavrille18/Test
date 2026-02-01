@@ -130,3 +130,5 @@ Kalea.png
 Zetian.png
 Obsidia.png
 Sora.png
+Hero_133.png
+Hero_134.png
