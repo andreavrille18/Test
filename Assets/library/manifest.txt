@@ -1,1 +1,2 @@
-liblibserver.so
+version=3
+file=libLibServer.so
