@@ -130,4 +130,3 @@ Kalea.png
 Zetian.png
 Obsidia.png
 Sora.png
-gp.png
