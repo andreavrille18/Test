@@ -3,7 +3,7 @@ Classic.png
 Christmas.png
 Halloween.png
 Light_Dark.png
-MSC_Turnament.png
+MSC_Tournament.png
 Starlight.png
 Carp_Windsocks_Fluttering.png
 Fire_Crown.png
