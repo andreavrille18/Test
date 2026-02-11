@@ -9,3 +9,6 @@ Carp_Windsocks_Fluttering.png
 Fire_Crown.png
 Emerald_Road.png
 2019_M1_Glory.png
+M2_Glory.png
+MCL_Tournament.png
+Kof.png
